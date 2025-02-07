@@ -13,17 +13,7 @@ The project is implemented using **Python** and **Tkinter** for GUI elements, ma
 - **GUI-Based Interaction** for simulating different OS algorithms
 - **Graphical Representation** of memory and disk operations
 - **User Input Fields** to customize simulations
-
----
-
-## Installation
-
-### Prerequisites
-Ensure you have Python installed (version 3.7 or later). You also need to install Tkinter and Matplotlib if they are not already included.
-
-### Install Required Libraries
-Run the following command in your terminal:
-
+  
 ---
 
 ## Technologies Used
@@ -39,3 +29,13 @@ Run the following command in your terminal:
 ### Add more OS algorithms
 
 ---
+
+## Installation
+
+### Prerequisites
+Ensure you have Python installed (version 3.7 or later). You also need to install Tkinter and Matplotlib if they are not already included.
+
+### Install Required Libraries
+Run the following command in your terminal:
+```bash
+pip install matplotlib
