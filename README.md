@@ -17,16 +17,16 @@ The project is implemented using **Python** and **Tkinter** for GUI elements, ma
 ---
 
 ## Technologies Used
-### Python 3.x
-### Tkinter (for GUI)
-### Matplotlib (for graphical representation)
-### Jupyter Notebook
+- **Python 3.x
+- **Tkinter (for GUI)
+- **Matplotlib (for graphical representation)
+- **Jupyter Notebook
 
 ---
 
 ## Future Enhancements
-### Improve the GUI layout and usability
-### Add more OS algorithms
+- **Improve the GUI layout and usability
+- **Add more OS algorithms
 
 ---
 
